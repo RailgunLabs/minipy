@@ -85,5 +85,6 @@ $ pip install minipy-0.9.2-py3-none-any.whl
 ## License
 
 Minipy is free for non-commercial use.
+See [LICENSE](LICENSE) for details.
 
 You can purchase a commercial license from [Railgun Labs](https://RailgunLabs.com/minipy/license/).
